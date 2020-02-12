@@ -54,7 +54,7 @@ blurb-btn-name: know more
 
 # About Page
 
-# Work Process Section
+Work Process Section
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
@@ -100,10 +100,10 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Digital Producer , icon: 'icon-1.png', date: 'Sep 2019 - Dec 2019', organization: 'Victoria\'s Secret'}
+- {name: Digital Producer, icon: 'icon-1.png', date: 'Sep 2019 - Dec 2019', organization: "Victoria's Secret"}
 - {name: E-commerce Project Lead, icon: 'icon-2.png', date: 'Apr 2018 - Feb 2019', organization: 'One Rockwell'}
 - {name: Associate Tech Director, icon: 'icon-3.png', date: 'May 2016 - Mar 2018', organization: '87AM'}
-- {name: Associate Tech Director, icon: 'icon-1.png', date: 'Sep 2014 - Present', organization: 'Gramercy Tech'}
+- {name: Project Manager, icon: 'icon-1.png', date: 'Apr 2015 - May 2016', organization: 'Gramercy Tech'}
 
 #-------------------------------
 # Education Section
